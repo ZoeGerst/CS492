@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment 1 Simple Android App</string>
+    <string name="bus_name">Zoe Gerst</string>
+    <string name="bus_title">CS 492 Student Extraordinaire</string>
+</resources>
